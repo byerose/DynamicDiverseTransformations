@@ -3,6 +3,7 @@ Code for paper "Dynamic and Diverse Transformations for Defending Against Advers
 
 ## Requirements:
 Python 3.8
-Tensorflow 2.7
 
-## Results
+torch==1.9.1
+
+
