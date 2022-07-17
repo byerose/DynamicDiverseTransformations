@@ -11,7 +11,7 @@ Let's start by installing all dependencies.
 
 ## Deploy the Defense
 
-`python our_defense.py` 
+Run the defense using `python our_defense.py`, or check our defense in `our_defense.ipynb` file. 
 
 ![](./files/example.png)
 
