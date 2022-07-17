@@ -1,9 +1,19 @@
 # DynamicDiverseTransformations
 Code for paper "Dynamic and Diverse Transformations for Defending Against Adversarial Examples".
 
-## Requirements:
-python==3.8
+![](./files/main.png)
 
-torch==1.9.1
+## Getting started
+
+Let's start by installing all dependencies.
+
+`pip install -r requirement.txt`
+
+## Deploy the Defense
+
+`python our_defense.py` 
+
+![](./files/example.png)
+
 
 
